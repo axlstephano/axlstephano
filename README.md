@@ -1,5 +1,3 @@
-# axlstephano
-
 # Hi there, I'm [Stephano Castillo]! 👋
 
 I'm a programming enthusiast, currently studying and passionate about technology and software development.
