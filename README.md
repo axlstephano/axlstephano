@@ -6,8 +6,8 @@ I'm a programming enthusiast, currently studying and passionate about technology
 
 You can find me on the following social media platforms:
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/stephanocastillo/)º
-- **Instagram:** [@YourInstagramHandle](https://www.instagram.com/stephano.castillo)
+- **LinkedIn:** [stephanocastillo](https://www.linkedin.com/in/stephanocastillo/)
+- **Instagram:** [@stephanocastillo](https://www.instagram.com/stephanocastillo)
 
 Feel free to follow me on these platforms to stay updated on my projects and to discover more about my programming journey!
 
